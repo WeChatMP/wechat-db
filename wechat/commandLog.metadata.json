@@ -1,0 +1,1 @@
+{ "options" : { "create" : "commandLog" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "wechattju.commandLog", "name" : "_id_" } ] }

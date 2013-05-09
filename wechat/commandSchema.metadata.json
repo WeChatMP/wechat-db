@@ -1,0 +1,1 @@
+{ "options" : { "create" : "commandSchema", "capped" : { "$undefined" : true }, "size" : { "$undefined" : true } }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "wechattju.commandSchema", "name" : "_id_" } ] }
